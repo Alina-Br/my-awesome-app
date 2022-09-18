@@ -55,3 +55,7 @@ li {
 .row {
   margin-right: calc(-4.1 * var(--bs-gutter-x));
 }
+
+small {
+  box-sizing: border-box;
+}
